@@ -1,4 +1,4 @@
 # 舒适的小窝
 
-[进入](https://github.com/liangshenghua/blog/issues)
+[大屏实时监控对接](https://github.com/liangshenghua/blog/issues/1)
 
